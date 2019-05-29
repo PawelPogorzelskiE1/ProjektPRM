@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1556998098 source:c:\users\student(debil)ja\desktop\treningzprm\projekt_prm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funkcje.h"
+
+1556991201 c:\users\student(debil)ja\desktop\treningzprm\projekt_prm\funkcje.h
+
